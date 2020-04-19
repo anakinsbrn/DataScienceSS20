@@ -26,5 +26,59 @@ Course materials for the Data Science online class in SS20.
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 1](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
-* [Exercise 2](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
+* [Exercise 1_a](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb) [--Solution--](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/1_a_Solution.ipynb)
+* [Exercise 1_b](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)[ --Solution--](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/1_b-Solution.ipynb)
+
+## Block 2 - Recommender Systems
+
+### Static Slides
+* [Recommender Systems I](Slides/02_a_Recommender_Systems_I.pdf)
+* [Tensor Algebra](Slides/02_b_Tensor_Algebra.pdf )
+* [Recommender Systems II](Slides/02_c_Recommender_Systems_II.pdf)
+* [Use Case](Slides/02_d_Use_Case_Recommender_System.pdf)
+
+### Notebooks
+* [Tensor Algebra](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/02_b_Tensor_Algebra.ipynb)
+* [Use Case](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/02_c_UseCase_RecommendationSystems.ipynb)
+
+### Lab
+* [NumPy](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/02_d_Numpy.ipynb)
+
+
+### Exercises
+Please upload your solutions via Moodle!
+* [Exercise 2_a](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb)
+* [Exercise 2_b](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb)
+
+## Block 3 - Data Wrangling
+
+### Static Slides
+* [Data Wrangling](Slides/03_a_Data_Wrangling.pdf)
+* [Basic Statistics](Slides/03_b_Basic_Statistics.pdf)
+* [The Group By Pattern](Slides/03_c_Group_By.pdf)
+
+
+### Notebooks
+* [Data Wrangling](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/3_a_Data_Wrangling.ipynb)
+* [Basic Statistics](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/3_b_Basic_Statistics.ipynb)
+* [The Group By Pattern](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/3_c_GroupBy.ipynb)
+
+### Lab
+* [Pandas Intro Part 1](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_01.ipynb)
+* [Pandas Intro Part 2](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_02.ipynb)
+* [Pandas Intro Part 3](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_03.ipynb)
+* [Pandas Intro Part 4](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_04.ipynb)
+* [Pandas Intro Part 5](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_05.ipynb)
+* [Pandas Intro Part 6](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_06.ipynb)
+* [Pandas Intro Part 7](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
+
+### Exercises
+* [3_a_Basic Pandas](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)
+* [3_b_Baby Names](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)
+* [3_c_Titanic](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )
+* [3_d_GroupBy I](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
+* [3_e_GroupBy II](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
+* [3_f_GroupBy III](https://colab.research.google.com/github/anakinsbrn/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+
+
+
